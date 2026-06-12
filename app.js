@@ -401,7 +401,7 @@ function updateStatus(){
 // ====== FETCH DATA ======
 function loadData(){
   fetch('data.json').then(function(r){return r.json()}).then(function(data){
-    M=data;updateStatus();render();resolveBets();
+    M=data.matches||data;updateStatus();render();resolveBets();
     // Check stage progression
     var finStages={};M.forEach(function(m){if(m.r){finStages[m.s]=true}});
     var stageOrder=['group','r32','r16','qf','sf','final'];
