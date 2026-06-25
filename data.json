@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T04:57:00+08:00",
+  "lastUpdated": "2026-06-26T06:20:00+08:00",
   "matches": [
     {
       "id": 1,
@@ -768,7 +768,8 @@
       "g": "E",
       "v": "纽约/新泽西",
       "s": "group",
-      "sim": true
+      "r": "2-1",
+      "sc": "⚽ Sané🇩🇪 2' · ⚽ Nilson Angulo🇪🇨 9' · ⚽ Gonzalo Plata🇪🇨 77'"
     },
     {
       "id": 56,
@@ -781,7 +782,8 @@
       "g": "E",
       "v": "费城",
       "s": "group",
-      "sim": true
+      "r": "0-2",
+      "sc": "⚽ Nicolas Pépé🇨🇮 7' · ⚽ Nicolas Pépé🇨🇮 64'"
     },
     {
       "id": 57,
