@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T05:07:00+08:00",
+  "lastUpdated": "2026-06-27T05:42:00+08:00",
   "matches": [
     {
       "id": 1,
@@ -904,7 +904,8 @@
       "g": "I",
       "v": "波士顿",
       "s": "group",
-      "sim": true
+      "r": "1-4",
+      "sc": "⚽ Dembélé🇫🇷 7' · ⚽ Dembélé🇫🇷 20' · ⚽ Aasgaard🇳🇴 21' · ⚽ Dembélé🇫🇷 32' · ⚽ Doué🇫🇷 90+4'"
     },
     {
       "id": 66,
@@ -917,7 +918,8 @@
       "g": "I",
       "v": "多伦多",
       "s": "group",
-      "sim": true
+      "r": "5-0",
+      "sc": "⚽ Diarra🇸🇳 4' · ⚽ Sarr🇸🇳 56' · ⚽ Gueye🇸🇳 59' · ⚽ Gueye🇸🇳 71' · ⚽ Ndiaye🇸🇳 82'<br>🟥 Sulaka🇮🇶"
     },
     {
       "id": 67,
